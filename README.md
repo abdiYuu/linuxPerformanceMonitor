@@ -1,4 +1,4 @@
-# linuxPerformanceMonitor
+# Ubuntu Performance Monitor
 CPRG-260 Winter 2020 'Scripting for System Admin' Final Project
 
 This is a Linux performance monitor specifically created on Ubuntu 18.04.
